@@ -13,16 +13,12 @@ blockquote  {
     align-items:center;
 }
 
-img {
-    width:30em;
-}
-
 .left-images {
-    width:28em;
+    width:38%;
     padding-right: 2vw;
 }
 .right-images {
-    width:23em;
+    width:32%;
     padding-left: 2vw;
 }
 #presentation   {
@@ -30,6 +26,17 @@ img {
     margin: 0 auto;
     padding: 1em 0;
     color: dimgray;
-    border-top: 1px solid dimgray;
-    border-bottom: 1px solid dimgray;
+    border-top: 1px solid #666;
+    border-bottom: 1px solid #666;
+}
+ul  {
+    list-style-type: '- ';
+    color:#666;
+    padding:0 1.5em;
+    margin:1em;
+    
+}
+li  {
+    padding:0 1.5em;
+    margin:1em;
 }

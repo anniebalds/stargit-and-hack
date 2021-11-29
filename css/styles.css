@@ -6,7 +6,8 @@ body {
     justify-content: space-around;
     align-items: center;
     flex-direction: column;
-    font-family: sans-serif
+    font-family: sans-serif;
+    font-size: 1.15em;
 }
 
 a {
@@ -20,11 +21,12 @@ a {
     font-size: 2em;
     text-align: left;
     width: 60%;
-    color: dimgray
+    color: dimgray;
 }
 
 ul {
     text-align: left;
     width: 55%;
     color: dimgray;
+    font-size:1.5em;
 }
