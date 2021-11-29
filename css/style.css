@@ -1,0 +1,30 @@
+blockquote  {
+    font-size:3em;
+    font-style: italic;
+    text-align: center;
+    color:dimgrey;
+}
+#images {
+    margin:0 auto;
+    width:60em;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}
+
+img {
+    width:30em;
+}
+
+.left-images {
+    width:28em;
+    padding-right: 2vw;
+}
+.right-images {
+    width:23em;
+    padding-left: 2vw;
+}
+#presentation   {
+    width:60em;
+    margin: 0 auto;
+}
