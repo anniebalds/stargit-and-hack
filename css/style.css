@@ -1,0 +1,35 @@
+blockquote  {
+    font-size:3em;
+    font-style: italic;
+    text-align: center;
+    color:dimgrey;
+    width: 60%;
+}
+#images {
+    margin:0 auto;
+    width:60%;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}
+
+img {
+    width:30em;
+}
+
+.left-images {
+    width:28em;
+    padding-right: 2vw;
+}
+.right-images {
+    width:23em;
+    padding-left: 2vw;
+}
+#presentation   {
+    width:60%;
+    margin: 0 auto;
+    padding: 1em 0;
+    color: dimgray;
+    border-top: 1px solid dimgray;
+    border-bottom: 1px solid dimgray;
+}
